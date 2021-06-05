@@ -1,0 +1,185 @@
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 0: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00000000  sel=000 || out=x 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 5: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01011111  sel=000
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 5: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01011111  sel=000 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 10: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11001100  sel=001
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 10: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11001100  sel=001 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 10: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11001100  sel=001 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 15: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10100110  sel=010
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 15: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10100110  sel=010 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 15: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10100110  sel=010 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 20: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10101011  sel=011
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 20: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10101011  sel=011 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 20: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10101011  sel=011 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 25: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01001111  sel=100
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 25: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01001111  sel=100 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 25: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01001111  sel=100 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 30: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01011100  sel=101
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 30: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01011100  sel=101 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 30: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01011100  sel=101 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 35: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11010010  sel=110
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 35: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11010010  sel=110 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 35: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11010010  sel=110 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 40: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10110001  sel=111
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 40: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10110001  sel=111 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 40: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10110001  sel=111 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 45: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11111001  sel=000
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 45: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11111001  sel=000 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 45: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11111001  sel=000 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 50: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10101010  sel=001
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 50: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10101010  sel=001 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 50: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10101010  sel=001 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 55: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11000100  sel=010
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 55: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11000100  sel=010 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 55: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11000100  sel=010 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 60: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01000111  sel=011
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 60: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01000111  sel=011 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 60: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01000111  sel=011 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 65: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00110011  sel=100
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 65: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00110011  sel=100 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 65: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00110011  sel=100 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 70: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10001000  sel=101
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 70: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10001000  sel=101 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 70: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10001000  sel=101 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 75: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01000110  sel=110
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 75: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01000110  sel=110 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 75: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01000110  sel=110 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 80: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01101101  sel=111
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 80: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01101101  sel=111 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 80: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01101101  sel=111 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 85: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11100101  sel=011
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 85: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11100101  sel=011 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 85: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11100101  sel=011 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 90: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01010010  sel=100
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 90: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01010010  sel=100 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 90: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01010010  sel=100 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 95: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00101100  sel=110
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 95: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00101100  sel=110 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 95: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00101100  sel=110 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 100: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01110011  sel=001
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 100: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01110011  sel=001 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 100: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01110011  sel=001 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 105: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00100111  sel=101
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 105: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00100111  sel=101 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 105: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00100111  sel=101 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 110: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01001000  sel=010
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 110: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01001000  sel=010 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 110: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01001000  sel=010 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 115: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11010110  sel=000
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 115: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11010110  sel=000 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 115: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11010110  sel=000 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 120: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11010001  sel=111
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 120: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11010001  sel=111 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 120: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11010001  sel=111 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 125: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00111001  sel=111
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 125: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00111001  sel=111 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 125: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00111001  sel=111 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 130: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00001110  sel=000
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 130: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00001110  sel=000 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 130: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00001110  sel=000 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 135: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01010000  sel=010
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 135: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01010000  sel=010 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 135: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01010000  sel=010 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 140: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11111111  sel=101
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 140: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11111111  sel=101 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 140: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11111111  sel=101 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 145: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00011011  sel=001
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 145: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00011011  sel=001 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 145: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00011011  sel=001 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 150: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10100100  sel=110
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 150: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10100100  sel=110 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 150: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10100100  sel=110 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 155: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10011010  sel=100
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 155: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10011010  sel=100 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 155: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10011010  sel=100 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 160: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11111101  sel=011
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 160: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11111101  sel=011 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 160: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11111101  sel=011 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 165: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11001101  sel=011
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 165: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11001101  sel=011 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 165: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11001101  sel=011 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 170: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00001010  sel=100
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 170: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00001010  sel=100 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 170: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00001010  sel=100 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 175: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10110100  sel=110
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 175: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10110100  sel=110 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 175: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10110100  sel=110 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 180: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11001011  sel=001
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 180: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11001011  sel=001 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 180: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11001011  sel=001 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 185: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01001111  sel=101
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 185: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01001111  sel=101 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 185: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01001111  sel=101 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 190: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01000000  sel=010
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 190: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01000000  sel=010 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 190: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01000000  sel=010 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 195: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10011110  sel=000
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 195: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10011110  sel=000 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 195: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10011110  sel=000 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 200: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01101001  sel=111
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 200: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01101001  sel=111 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 200: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01101001  sel=111 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 205: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10100001  sel=111
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 205: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10100001  sel=111 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 205: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10100001  sel=111 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 210: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01000110  sel=000
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 210: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01000110  sel=000 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 210: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01000110  sel=000 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 215: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01011000  sel=010
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 215: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01011000  sel=010 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 215: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01011000  sel=010 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 220: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11010111  sel=101
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 220: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11010111  sel=101 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 220: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11010111  sel=101 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 225: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11000011  sel=001
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 225: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11000011  sel=001 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 225: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11000011  sel=001 || out=0 
+UVM_INFO /home/runner/dmux_scoreboard.sv(49) @ 230: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00011100  sel=110
+UVM_INFO /home/runner/dmux_scoreboard.sv(72) @ 230: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00011100  sel=110 || out=1 
+UVM_INFO /home/runner/dmux_scoreboard.sv(89) @ 230: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00011100  sel=110 || out=1 
+UVM_INFO /home/runner/dmux_coverage.sv(55) @ 240: uvm_test_top.env_h.coverage_h [dmux_coverage] Coverage is 100.000000
+UVM_INFO /home/runner/dmux_scoreboard.sv(108) @ 240: uvm_test_top.env_h.scoreboard_h [PASSED] *** TEST PASSED - 45 vectors ran, 45 vectors passed ***
